@@ -1,5 +1,7 @@
 # [Link To My Blog Post](https://hkang42.github.io/2020-03-05-COVID-19-Visualization-Project/)
 
+# [Link To My Post on Medium](https://medium.com/@h.kang.q)
+
 # DS Data Storytelling Portfolio Project
 
 Contents
